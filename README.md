@@ -20,10 +20,10 @@ This is a beginner-friendly project built entirely in Python and designed to be 
 ##  Project Structure
 
 finance_blockchain/
-├── main.py # Entry point and CLI loop
-├── blockchain.py # Blockchain and Block classes
-├── transaction.py # User input and transaction validation
-└── utils.py # Helper functions (like pretty-printing blocks)
+-  main.py # Entry point and CLI loop
+- blockchain.py # Blockchain and Block classes
+- transaction.py # User input and transaction validation
+- utils.py # Helper functions (like pretty-printing blocks)
 
 
 ##  How It Works
