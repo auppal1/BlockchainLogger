@@ -41,7 +41,7 @@ The blockchain is stored in memory and can be verified for tampering.
 
 - Save blockchain data to a JSON file or database
 - Add digital signatures with public/private keys
-- Build a simple web or mobile interface
+- Build a simple web or mobile interface ✔️
 - Use sockets to sync blockchains across peers
 - Convert into a minimal cryptocurrency simulation
 
